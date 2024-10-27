@@ -38,9 +38,7 @@ This project is a RESTful API for managing data on music bands and their albums.
    git clone https://github.com/sachindevangan/A-Band_API
    ```
 2. Navigate to the project directory.
-   ```bash
-   cd lab6-band-api
-   ```
+  
 3. Install the dependencies.
    ```bash
    npm install
